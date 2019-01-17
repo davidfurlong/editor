@@ -1,6 +1,6 @@
 {
-  "name": "ory-editor-plugins-video",
-  "version": "0.0.0",
+  "name": "@deedmob/ory-editor-plugins-video-patch",
+  "version": "0.0.3",
   "main": "./lib/index.js",
   "typings": "./lib/index.d.ts",
   "author": "ORY GmbH",
